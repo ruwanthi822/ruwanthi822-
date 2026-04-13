@@ -21,4 +21,4 @@ I work at the intersection of **Bayesian inference**, **variational methods**, a
 - 💼 [LinkedIn](www.linkedin.com/in/ruwanthi-abeysekara-014769100)
 
 
-*Currently open to research scientist and algorithm developer roles in AI/ML.
+Currently open to research scientist and algorithm developer roles in AI/ML.
